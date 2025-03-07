@@ -13,7 +13,7 @@ This project is a simple implementation of the classic Flappy Bird game with add
 
 1. Clone the repository:
     ```
-    git clone 
+    git clone https://github.com/Cambrian34/FlappyBird.git
     ```
 2. Navigate to the project directory:
     ```
